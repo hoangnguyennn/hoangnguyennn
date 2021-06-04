@@ -14,14 +14,14 @@
   <br />
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hoangnguyennn&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=hoangnguyennn&theme=tokyonight"
     alt="hoangnguyennn's github stats"
   />
 
   <br />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=hoangnguyennn&theme=tokyonight"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hoangnguyennn&theme=tokyonight"
     alt="hoangnguyennn's github stats"
   />
 </div>
