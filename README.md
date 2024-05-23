@@ -3,6 +3,6 @@
   alt="hoangnguyennn's github stats"
 /> -->
 
-<<- Most used languages ->>
+Most used languages
 
 ![download](https://github.com/hoangnguyennn/hoangnguyennn/assets/40981446/ae6be920-c3f8-4132-901d-6875847b40c6)
